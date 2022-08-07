@@ -9,3 +9,4 @@ let luass = (a,b) => {
 luass(alas, tinggi)
 
 console.log(`Luas Segitiga adalah = ${luass}`)
+alert(`Luas Segitiga adalah = ${luass}`)
